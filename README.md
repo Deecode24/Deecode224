@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deecode
+- 👋 Hi, I’m Damilare
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Front-end Web Development
 - 💞️ I’m looking to collaborate on ...
